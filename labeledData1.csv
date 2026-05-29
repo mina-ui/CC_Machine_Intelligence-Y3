@@ -1,0 +1,780 @@
+Food,Categories
+asparagus,fresh produce (vegetables and herbs)
+avocados,fresh produce (vegetables and herbs)
+bananas,fresh produce (fruit)
+bagels,"breads, grains, pasta, rice and pastries"
+berries,fresh produce (fruit)
+brocolli,fresh produce (vegetables and herbs)
+brown rice,"breads, grains, pasta, rice and pastries"
+cauliflower,fresh produce (vegetables and herbs)
+american cheese,"dairy, eggs and cheese products"
+coffee,beverages
+corn,fresh produce (vegetables and herbs)
+dark chocolate,sweet and savoury snacks and treats
+grapes,fresh produce (fruit)
+milk,"dairy, eggs and cheese products"
+cashew nuts,sweet and savoury snacks and treats
+onions,fresh produce (vegetables and herbs)
+orange,fresh produce (fruit)
+pasta  with tomato sauce,"pantry- dry, canned and jarred goods"
+pears,fresh produce (fruit)
+peas,fresh produce (vegetables and herbs)
+protein powder,"pantry- dry, canned and jarred goods"
+pumpkin,fresh produce (vegetables and herbs)
+tuna salad,"meat, poultry and seafood"
+tuna fish,"meat, poultry and seafood"
+pepperoni pizza,"ready meals, sandwiches, soups and misc."
+cheese pizza,"ready meals, sandwiches, soups and misc."
+french fries,"ready meals, sandwiches, soups and misc."
+chicken burger,"ready meals, sandwiches, soups and misc."
+cheese burger,"ready meals, sandwiches, soups and misc."
+chicken,"meat, poultry and seafood"
+sugar doughnuts,"ready meals, sandwiches, soups and misc."
+chocolate doughnuts,"ready meals, sandwiches, soups and misc."
+pop corn,sweet and savoury snacks and treats
+dosa,"ready meals, sandwiches, soups and misc."
+idli,"ready meals, sandwiches, soups and misc."
+poha,"breads, grains, pasta, rice and pastries"
+chappati,"breads, grains, pasta, rice and pastries"
+tomato,fresh produce (fruit)
+yogurt,"dairy, eggs and cheese products"
+brownie,sweet and savoury snacks and treats
+noodles,"breads, grains, pasta, rice and pastries"
+uttapam,"ready meals, sandwiches, soups and misc."
+bhaji pav,"ready meals, sandwiches, soups and misc."
+dal makhani,"ready meals, sandwiches, soups and misc."
+almonds,sweet and savoury snacks and treats
+mushrooms,fresh produce (vegetables and herbs)
+eggs,"dairy, eggs and cheese products"
+sweet potatoes,fresh produce (vegetables and herbs)
+potatoes,fresh produce (vegetables and herbs)
+white rice,"breads, grains, pasta, rice and pastries"
+orange juice,beverages
+greek yogurt plain,"dairy, eggs and cheese products"
+oat bran,"breads, grains, pasta, rice and pastries"
+green tea,beverages
+chia seeds,"breads, grains, pasta, rice and pastries"
+cottage cheese with vegetables,"dairy, eggs and cheese products"
+salmon,"meat, poultry and seafood"
+cereals-corn flakes,"breads, grains, pasta, rice and pastries"
+beans,"pantry- dry, canned and jarred goods"
+lentils,"pantry- dry, canned and jarred goods"
+tea,beverages
+apples,fresh produce (fruit)
+strawberries,fresh produce (fruit)
+quninoa,"breads, grains, pasta, rice and pastries"
+goat meat,"meat, poultry and seafood"
+rabbit meat,"meat, poultry and seafood"
+chicken strips,"meat, poultry and seafood"
+steak,"meat, poultry and seafood"
+shrimp,"meat, poultry and seafood"
+spaghetti and meatballs,"ready meals, sandwiches, soups and misc."
+macroni n cheese,"ready meals, sandwiches, soups and misc."
+pork,"meat, poultry and seafood"
+bacon,"meat, poultry and seafood"
+turkey,"meat, poultry and seafood"
+oyster,"meat, poultry and seafood"
+banana chips,sweet and savoury snacks and treats
+honey,"pantry- dry, canned and jarred goods"
+chocolate icecream,frozen products
+vanilla ice cream,frozen products
+strawberry icecream,frozen products
+marshmallows,sweet and savoury snacks and treats
+chocolate milk,beverages
+rice pudding,sweet and savoury snacks and treats
+nectarine,fresh produce (fruit)
+kiwifruit gold,fresh produce (fruit)
+prickly pear raw,fresh produce (fruit)
+pineapple,fresh produce (fruit)
+muscadine grapes,fresh produce (fruit)
+tangerine,fresh produce (fruit)
+prunes,fresh produce (fruit)
+lemon,fresh produce (fruit)
+banana,fresh produce (fruit)
+pomelo,fresh produce (fruit)
+raspberries,fresh produce (fruit)
+apricot,fresh produce (fruit)
+strawberry guava,fresh produce (fruit)
+kiwifruit green,fresh produce (fruit)
+figs,fresh produce (fruit)
+clementine,fresh produce (fruit)
+bartlett pear,fresh produce (fruit)
+red white currants,fresh produce (fruit)
+blueberries,fresh produce (fruit)
+mulberries,fresh produce (fruit)
+java plum,fresh produce (fruit)
+blue cheese,"dairy, eggs and cheese products"
+eggnog,beverages
+beer light,beverages
+beer budweiser,beverages
+weizenbier erdinger,beverages
+beer light budweiser,beverages
+beer,beverages
+root beer,beverages
+whiskey sour mix,beverages
+whiskey sour,beverages
+tequila sunrise,beverages
+daiquiri,beverages
+pina colada,beverages
+whiskey,beverages
+rum,beverages
+cocktails,beverages
+coffee liqueur,beverages
+gin,beverages
+dessert wine sweet,beverages
+chenin blanc white wine,beverages
+gamay red wine,beverages
+late harvest white wine,beverages
+gewurztraminer white wine,beverages
+burgundy red wine,beverages
+zinfandel red wine,beverages
+red salmon sockeye filets smoked,"meat, poultry and seafood"
+cream cheese,"dairy, eggs and cheese products"
+neufchatel cheese,"dairy, eggs and cheese products"
+ricotta cheese,"dairy, eggs and cheese products"
+scallops,"meat, poultry and seafood"
+squid fried,"meat, poultry and seafood"
+oyster raw,"meat, poultry and seafood"
+abalone,"meat, poultry and seafood"
+queen crab raw,"meat, poultry and seafood"
+whelk,"meat, poultry and seafood"
+eastern oyster,"meat, poultry and seafood"
+tuna  in oil,"pantry- dry, canned and jarred goods"
+wild pink salmon oceans,"meat, poultry and seafood"
+alaska king crab raw,"meat, poultry and seafood"
+scallops fried,"meat, poultry and seafood"
+prawns,"meat, poultry and seafood"
+clams,"meat, poultry and seafood"
+alaska king crab,"meat, poultry and seafood"
+sardines in tomato sauce,"pantry- dry, canned and jarred goods"
+tapioca pudding,"dairy, eggs and cheese products"
+chocolate pudding,"dairy, eggs and cheese products"
+lemon pudding,"dairy, eggs and cheese products"
+vanilla pudding,"dairy, eggs and cheese products"
+cottage cheese,"dairy, eggs and cheese products"
+vanilla yogurt,"dairy, eggs and cheese products"
+chocolate yogurt,"dairy, eggs and cheese products"
+yogurt parfait,"dairy, eggs and cheese products"
+chocolate frozen yogurt,frozen products
+frozen yogurt,"dairy, eggs and cheese products"
+yogurt low fat,"dairy, eggs and cheese products"
+vanilla yoghurt oikos,"dairy, eggs and cheese products"
+fruit yogurt,"dairy, eggs and cheese products"
+oyster mushroom,fresh produce (vegetables and herbs)
+sunflower seed butter,"oils, sauces, condiments and spices"
+hazelnut oil,"oils, sauces, condiments and spices"
+lard,"oils, sauces, condiments and spices"
+margarine spread,"dairy, eggs and cheese products"
+lard vegetable oil,"oils, sauces, condiments and spices"
+shortening,"oils, sauces, condiments and spices"
+vegetable oil spread,"oils, sauces, condiments and spices"
+cottonseed oil,"oils, sauces, condiments and spices"
+vegetable oil spread fat free,"oils, sauces, condiments and spices"
+margarine with salt,"dairy, eggs and cheese products"
+grape leaves,"pantry- dry, canned and jarred goods"
+sauerkraut,"pantry- dry, canned and jarred goods"
+beets,"pantry- dry, canned and jarred goods"
+tomatoes,"pantry- dry, canned and jarred goods"
+tomato paste,"pantry- dry, canned and jarred goods"
+artichoke,fresh produce (vegetables and herbs)
+arugula,fresh produce (vegetables and herbs)
+aubergine,fresh produce (vegetables and herbs)
+beetroot,fresh produce (vegetables and herbs)
+bell pepper,fresh produce (vegetables and herbs)
+black olives,fresh produce (vegetables and herbs)
+broccoli,fresh produce (vegetables and herbs)
+brussels sprouts,fresh produce (vegetables and herbs)
+cabbage,fresh produce (vegetables and herbs)
+capsicum,fresh produce (vegetables and herbs)
+peppers,fresh produce (vegetables and herbs)
+carrot,fresh produce (vegetables and herbs)
+celery,fresh produce (vegetables and herbs)
+chard,fresh produce (vegetables and herbs)
+cherry tomato,fresh produce (fruit)
+chicory,fresh produce (vegetables and herbs)
+chinese cabbage,fresh produce (vegetables and herbs)
+chives,fresh produce (vegetables and herbs)
+mint,fresh produce (vegetables and herbs)
+basil,fresh produce (vegetables and herbs)
+oregano,fresh produce (vegetables and herbs)
+thyme,fresh produce (vegetables and herbs)
+rosemary,fresh produce (vegetables and herbs)
+sage,fresh produce (vegetables and herbs)
+collard greens,fresh produce (vegetables and herbs)
+courgette,fresh produce (vegetables and herbs)
+spinach,fresh produce (vegetables and herbs)
+cucumber,fresh produce (vegetables and herbs)
+eggplant,fresh produce (vegetables and herbs)
+fennel,fresh produce (vegetables and herbs)
+garlic,fresh produce (vegetables and herbs)
+gherkin,fresh produce (vegetables and herbs)
+gourd,fresh produce (vegetables and herbs)
+green beans,fresh produce (vegetables and herbs)
+green olives,fresh produce (vegetables and herbs)
+green onion,fresh produce (vegetables and herbs)
+horseradish,fresh produce (vegetables and herbs)
+kale,fresh produce (vegetables and herbs)
+kohlrabi,fresh produce (vegetables and herbs)
+leek,fresh produce (vegetables and herbs)
+lettuce,fresh produce (vegetables and herbs)
+mustard greens,fresh produce (vegetables and herbs)
+nori,fresh produce (vegetables and herbs)
+okra,fresh produce (vegetables and herbs)
+olives,fresh produce (vegetables and herbs)
+onion,fresh produce (vegetables and herbs)
+parsnips,fresh produce (vegetables and herbs)
+pepper,fresh produce (vegetables and herbs)
+potato,fresh produce (vegetables and herbs)
+radishes,fresh produce (vegetables and herbs)
+red cabbage,fresh produce (vegetables and herbs)
+shallots,fresh produce (vegetables and herbs)
+squash,fresh produce (vegetables and herbs)
+sweet potato,fresh produce (vegetables and herbs)
+turnip greens,fresh produce (vegetables and herbs)
+turnips,fresh produce (vegetables and herbs)
+wasabi,fresh produce (vegetables and herbs)
+winter squash,fresh produce (vegetables and herbs)
+zucchini,fresh produce (vegetables and herbs)
+acai,fresh produce (fruit)
+apple,fresh produce (fruit)
+applesauce,"pantry- dry, canned and jarred goods"
+avocado,fresh produce (vegetables and herbs)
+blackberries,fresh produce (fruit)
+blood oranges,fresh produce (fruit)
+cantaloupe,fresh produce (fruit)
+cherries,fresh produce (fruit)
+cranberries,fresh produce (fruit)
+currants,fresh produce (fruit)
+custard apple,fresh produce (fruit)
+dates,fresh produce (fruit)
+fruit salad,fresh produce (fruit)
+guava,fresh produce (fruit)
+jackfruit,fresh produce (fruit)
+jujube,fresh produce (fruit)
+kiwi,fresh produce (fruit)
+lime,fresh produce (fruit)
+lychees,fresh produce (fruit)
+mandarin oranges,fresh produce (fruit)
+mango,fresh produce (fruit)
+papaya,fresh produce (fruit)
+passion fruit,fresh produce (fruit)
+peach,fresh produce (fruit)
+pear,fresh produce (fruit)
+persimmon,fresh produce (fruit)
+physalis,fresh produce (fruit)
+plantains,fresh produce (fruit)
+plum,fresh produce (fruit)
+pomegranate,fresh produce (fruit)
+quince,fresh produce (fruit)
+raisins,fresh produce (fruit)
+rambutan,fresh produce (fruit)
+rhubarb,fresh produce (fruit)
+starfruit,fresh produce (fruit)
+tamarind,fresh produce (fruit)
+watermelon,fresh produce (fruit)
+baby back ribs,"meat, poultry and seafood"
+baked beans,"pantry- dry, canned and jarred goods"
+bbq ribs,"meat, poultry and seafood"
+beef stew,"ready meals, sandwiches, soups and misc."
+biryani,"ready meals, sandwiches, soups and misc."
+black pudding,"meat, poultry and seafood"
+black rice,"breads, grains, pasta, rice and pastries"
+blt,"ready meals, sandwiches, soups and misc."
+burrito,"ready meals, sandwiches, soups and misc."
+butter chicken,"ready meals, sandwiches, soups and misc."
+california roll,"ready meals, sandwiches, soups and misc."
+chicken caesar salad,"ready meals, sandwiches, soups and misc."
+chicken fried steak,"ready meals, sandwiches, soups and misc."
+chicken marsala,"ready meals, sandwiches, soups and misc."
+chicken parmesan,"ready meals, sandwiches, soups and misc."
+chicken pot pie,"ready meals, sandwiches, soups and misc."
+chicken tikka masala,"ready meals, sandwiches, soups and misc."
+chili con carne,"ready meals, sandwiches, soups and misc."
+chimichanga,"ready meals, sandwiches, soups and misc."
+cobb salad,"ready meals, sandwiches, soups and misc."
+corn dog,"ready meals, sandwiches, soups and misc."
+corned beef hash,"ready meals, sandwiches, soups and misc."
+cottage pie,"ready meals, sandwiches, soups and misc."
+dal,"ready meals, sandwiches, soups and misc."
+deviled eggs,"dairy, eggs and cheese products"
+dim sum,"ready meals, sandwiches, soups and misc."
+enchiladas,"ready meals, sandwiches, soups and misc."
+fajita,"ready meals, sandwiches, soups and misc."
+fish and chips,"ready meals, sandwiches, soups and misc."
+fried rice,"ready meals, sandwiches, soups and misc."
+grilled cheese sandwich,"ready meals, sandwiches, soups and misc."
+ham and cheese sandwich,"ready meals, sandwiches, soups and misc."
+jambalaya,"ready meals, sandwiches, soups and misc."
+kebab meat,"meat, poultry and seafood"
+lasagne,"ready meals, sandwiches, soups and misc."
+mac and cheese,"ready meals, sandwiches, soups and misc."
+macaroni and cheese,"ready meals, sandwiches, soups and misc."
+mashed potatoes,"ready meals, sandwiches, soups and misc."
+meat,"meat, poultry and seafood"
+meatloaf,"meat, poultry and seafood"
+naan,"breads, grains, pasta, rice and pastries"
+orange chicken,"ready meals, sandwiches, soups and misc."
+pad thai,"ready meals, sandwiches, soups and misc."
+paella,"ready meals, sandwiches, soups and misc."
+paratha,"breads, grains, pasta, rice and pastries"
+pea soup,"ready meals, sandwiches, soups and misc."
+peanut butter sandwich,"ready meals, sandwiches, soups and misc."
+duck,"meat, poultry and seafood"
+philly cheese steak,"ready meals, sandwiches, soups and misc."
+pizza,"ready meals, sandwiches, soups and misc."
+pork chop,"meat, poultry and seafood"
+potato salad,"ready meals, sandwiches, soups and misc."
+pulled pork sandwich,"ready meals, sandwiches, soups and misc."
+ramen noodles,"breads, grains, pasta, rice and pastries"
+ravioli,"breads, grains, pasta, rice and pastries"
+reuben sandwich,"ready meals, sandwiches, soups and misc."
+roast beef,"meat, poultry and seafood"
+roast dinner,"ready meals, sandwiches, soups and misc."
+samosa,"ready meals, sandwiches, soups and misc."
+sausage roll,"ready meals, sandwiches, soups and misc."
+sausage rolls,"ready meals, sandwiches, soups and misc."
+shepherds pie,"ready meals, sandwiches, soups and misc."
+shrimp cocktail,"meat, poultry and seafood"
+sloppy joe,"meat, poultry and seafood"
+sloppy joes,"meat, poultry and seafood"
+spaghetti bolognese,"ready meals, sandwiches, soups and misc."
+spring roll,"ready meals, sandwiches, soups and misc."
+tandoori chicken,"meat, poultry and seafood"
+yorkshire pudding,"ready meals, sandwiches, soups and misc."
+barley,"breads, grains, pasta, rice and pastries"
+barley groats,"breads, grains, pasta, rice and pastries"
+buckwheat,"breads, grains, pasta, rice and pastries"
+buckwheat groats,"breads, grains, pasta, rice and pastries"
+corn waffles,"breads, grains, pasta, rice and pastries"
+cornmeal,"breads, grains, pasta, rice and pastries"
+cornstarch,"breads, grains, pasta, rice and pastries"
+couscous,"breads, grains, pasta, rice and pastries"
+cracker,sweet and savoury snacks and treats
+durum wheat semolina,"breads, grains, pasta, rice and pastries"
+flaxseed,"breads, grains, pasta, rice and pastries"
+freekeh,"breads, grains, pasta, rice and pastries"
+grissini,"breads, grains, pasta, rice and pastries"
+kamut,"breads, grains, pasta, rice and pastries"
+millet,"breads, grains, pasta, rice and pastries"
+millet flour,"breads, grains, pasta, rice and pastries"
+millet gruel,"breads, grains, pasta, rice and pastries"
+pearl barley,"breads, grains, pasta, rice and pastries"
+polenta,"breads, grains, pasta, rice and pastries"
+prawn crackers,sweet and savoury snacks and treats
+pretzel sticks,sweet and savoury snacks and treats
+quinoa,"breads, grains, pasta, rice and pastries"
+rusk,"breads, grains, pasta, rice and pastries"
+rye bran,"breads, grains, pasta, rice and pastries"
+sago,"breads, grains, pasta, rice and pastries"
+savoury biscuits,sweet and savoury snacks and treats
+shortbread,sweet and savoury snacks and treats
+spelt,"breads, grains, pasta, rice and pastries"
+spelt bran,"breads, grains, pasta, rice and pastries"
+spelt semolina,"breads, grains, pasta, rice and pastries"
+sunflower seeds,sweet and savoury snacks and treats
+crisps,sweet and savoury snacks and treats
+chips,sweet and savoury snacks and treats
+tortilla chips,sweet and savoury snacks and treats
+wheat bran,"breads, grains, pasta, rice and pastries"
+wheat germ,"breads, grains, pasta, rice and pastries"
+wheat gluten,"breads, grains, pasta, rice and pastries"
+wheat semolina,"breads, grains, pasta, rice and pastries"
+wheat starch,"breads, grains, pasta, rice and pastries"
+whole grain wheat,"breads, grains, pasta, rice and pastries"
+wholegrain oat,"breads, grains, pasta, rice and pastries"
+almond oil,"oils, sauces, condiments and spices"
+apricot kernel oil,"oils, sauces, condiments and spices"
+argan oil,"oils, sauces, condiments and spices"
+avocado oil,"oils, sauces, condiments and spices"
+canola oil,"oils, sauces, condiments and spices"
+coconut oil,"oils, sauces, condiments and spices"
+corn oil,"oils, sauces, condiments and spices"
+flaxseed oil,"oils, sauces, condiments and spices"
+grape seed oil,"oils, sauces, condiments and spices"
+sunflower oil,"oils, sauces, condiments and spices"
+vegetable oil,"oils, sauces, condiments and spices"
+tumeric,"oils, sauces, condiments and spices"
+cumin,"oils, sauces, condiments and spices"
+paprika,"oils, sauces, condiments and spices"
+peppercorns,"oils, sauces, condiments and spices"
+cinnamon,"oils, sauces, condiments and spices"
+allspice,"oils, sauces, condiments and spices"
+nutmeg,"oils, sauces, condiments and spices"
+star anise,"oils, sauces, condiments and spices"
+cardamon,"oils, sauces, condiments and spices"
+smoothie,beverages
+milkshake,beverages
+alphabet soup,"ready meals, sandwiches, soups and misc."
+bean stew,"ready meals, sandwiches, soups and misc."
+beef bouillon,"pantry- dry, canned and jarred goods"
+beef noodle soup,"ready meals, sandwiches, soups and misc."
+beef soup,"ready meals, sandwiches, soups and misc."
+bouillon,"pantry- dry, canned and jarred goods"
+broccoli cheese soup,"ready meals, sandwiches, soups and misc."
+broccoli soup,"ready meals, sandwiches, soups and misc."
+cabbage soup,"ready meals, sandwiches, soups and misc."
+carrot ginger soup,"ready meals, sandwiches, soups and misc."
+carrot soup,"ready meals, sandwiches, soups and misc."
+chicken bouillon,"pantry- dry, canned and jarred goods"
+chicken broth,"ready meals, sandwiches, soups and misc."
+chicken gumbo soup,"ready meals, sandwiches, soups and misc."
+chicken noodle soup,"ready meals, sandwiches, soups and misc."
+chicken stock,"pantry- dry, canned and jarred goods"
+chicken vegetable soup,"ready meals, sandwiches, soups and misc."
+chicken with rice soup,"ready meals, sandwiches, soups and misc."
+cream of asparagus soup,"ready meals, sandwiches, soups and misc."
+cream of broccoli soup,"ready meals, sandwiches, soups and misc."
+cream of celery soup,"ready meals, sandwiches, soups and misc."
+cream of chicken soup,"ready meals, sandwiches, soups and misc."
+cream of mushroom soup,"ready meals, sandwiches, soups and misc."
+cream of onion soup,"ready meals, sandwiches, soups and misc."
+cream of potato soup,"ready meals, sandwiches, soups and misc."
+creamy chicken noodle soup,"ready meals, sandwiches, soups and misc."
+french onion soup,"ready meals, sandwiches, soups and misc."
+golden mushroom soup,"ready meals, sandwiches, soups and misc."
+goulash,"ready meals, sandwiches, soups and misc."
+lentil soup,"ready meals, sandwiches, soups and misc."
+lobster bisque soup,"ready meals, sandwiches, soups and misc."
+meatball soup,"ready meals, sandwiches, soups and misc."
+minestrone,"ready meals, sandwiches, soups and misc."
+mushroom soup,"ready meals, sandwiches, soups and misc."
+noodle soup,"ready meals, sandwiches, soups and misc."
+onion soup,"ready meals, sandwiches, soups and misc."
+oxtail soup,"ready meals, sandwiches, soups and misc."
+potato soup,"ready meals, sandwiches, soups and misc."
+pumpkin soup,"ready meals, sandwiches, soups and misc."
+scotch broth,"ready meals, sandwiches, soups and misc."
+thai soup,"ready meals, sandwiches, soups and misc."
+tomato rice soup,"ready meals, sandwiches, soups and misc."
+tomato soup,"ready meals, sandwiches, soups and misc."
+vegetable beef soup,"ready meals, sandwiches, soups and misc."
+vegetable broth,"ready meals, sandwiches, soups and misc."
+vegetable soup,"ready meals, sandwiches, soups and misc."
+vegetable stock,"pantry- dry, canned and jarred goods"
+butter pecan ice cream,frozen products
+chocolate chip ice cream,frozen products
+chocolate ice cream,frozen products
+coffee ice cream,frozen products
+cold stone creamery,frozen products
+cookie dough ice cream,frozen products
+dippin dots,frozen products
+french vanilla ice cream,frozen products
+hot fudge sundae,frozen products
+ice cream sandwich,frozen products
+ice cream sundae,frozen products
+ice lolly,frozen products
+magnum almond,frozen products
+popsicle,frozen products
+popsicles,frozen products
+magnum gold,frozen products
+magnum white,frozen products
+mint chocolate chip ice cream,frozen products
+rocky road ice cream,frozen products
+snickers ice cream,frozen products
+soft serve,frozen products
+solero,frozen products
+cream,"dairy, eggs and cheese products"
+double cream,"dairy, eggs and cheese products"
+single cream,"dairy, eggs and cheese products"
+whipping cream,"dairy, eggs and cheese products"
+brandy butter,"dairy, eggs and cheese products"
+strawberry ice cream,frozen products
+strawberry sundae,frozen products
+sundae,frozen products
+vanilla cone,frozen products
+cannelloni,"breads, grains, pasta, rice and pastries"
+capellini,"breads, grains, pasta, rice and pastries"
+cappelletti,"breads, grains, pasta, rice and pastries"
+cellophane noodles,"breads, grains, pasta, rice and pastries"
+cheese tortellini,"breads, grains, pasta, rice and pastries"
+dampfnudel,"breads, grains, pasta, rice and pastries"
+dumpling dough,"breads, grains, pasta, rice and pastries"
+egg noodles,"breads, grains, pasta, rice and pastries"
+farfalle,"breads, grains, pasta, rice and pastries"
+fettuccine,"breads, grains, pasta, rice and pastries"
+fusilli,"breads, grains, pasta, rice and pastries"
+glass noodles,"breads, grains, pasta, rice and pastries"
+lasagne sheets,"breads, grains, pasta, rice and pastries"
+linguine,"breads, grains, pasta, rice and pastries"
+low carb pasta,"breads, grains, pasta, rice and pastries"
+macaroni,"breads, grains, pasta, rice and pastries"
+manicotti,"breads, grains, pasta, rice and pastries"
+mostaccioli,"breads, grains, pasta, rice and pastries"
+orecchiette,"breads, grains, pasta, rice and pastries"
+orzo,"breads, grains, pasta, rice and pastries"
+penne,"breads, grains, pasta, rice and pastries"
+penne rigate,"breads, grains, pasta, rice and pastries"
+pierogi,"breads, grains, pasta, rice and pastries"
+rigatoni,"breads, grains, pasta, rice and pastries"
+rotini,"breads, grains, pasta, rice and pastries"
+shells,"breads, grains, pasta, rice and pastries"
+shirataki noodles,"breads, grains, pasta, rice and pastries"
+soy noodles,"breads, grains, pasta, rice and pastries"
+spaetzle,"breads, grains, pasta, rice and pastries"
+spaghetti,"breads, grains, pasta, rice and pastries"
+spinach tortellini,"breads, grains, pasta, rice and pastries"
+spirelli,"breads, grains, pasta, rice and pastries"
+tagliatelle,"breads, grains, pasta, rice and pastries"
+tortellini,"breads, grains, pasta, rice and pastries"
+vermicelli,"breads, grains, pasta, rice and pastries"
+pasta,"breads, grains, pasta, rice and pastries"
+whole grain spaghetti,"breads, grains, pasta, rice and pastries"
+ziti,"breads, grains, pasta, rice and pastries"
+bbq chicken pizza,"ready meals, sandwiches, soups and misc."
+bbq pizza,"ready meals, sandwiches, soups and misc."
+beef pizza,"ready meals, sandwiches, soups and misc."
+bianca pizza,"ready meals, sandwiches, soups and misc."
+buffalo chicken pizza,"ready meals, sandwiches, soups and misc."
+calabrese pizza,"ready meals, sandwiches, soups and misc."
+calzone,"ready meals, sandwiches, soups and misc."
+capricciosa pizza,"ready meals, sandwiches, soups and misc."
+chicken pizza,"ready meals, sandwiches, soups and misc."
+deep dish pizza,"ready meals, sandwiches, soups and misc."
+dominos philly cheese steak pizza,"ready meals, sandwiches, soups and misc."
+four cheese pizza,"ready meals, sandwiches, soups and misc."
+goat cheese pizza,"ready meals, sandwiches, soups and misc."
+grilled pizza,"ready meals, sandwiches, soups and misc."
+hawaiian pizza,"ready meals, sandwiches, soups and misc."
+margherita pizza,"ready meals, sandwiches, soups and misc."
+mozzarella pizza,"ready meals, sandwiches, soups and misc."
+mushroom pizza,"ready meals, sandwiches, soups and misc."
+napoli pizza,"ready meals, sandwiches, soups and misc."
+new york style pizza,"ready meals, sandwiches, soups and misc."
+stuffed crust pizza,"ready meals, sandwiches, soups and misc."
+supreme pizza,"ready meals, sandwiches, soups and misc."
+pizza rolls,"ready meals, sandwiches, soups and misc."
+quattro formaggi pizza,"ready meals, sandwiches, soups and misc."
+red pepper pizza,"ready meals, sandwiches, soups and misc."
+salami pizza,"ready meals, sandwiches, soups and misc."
+sausage pizza,"ready meals, sandwiches, soups and misc."
+seafood pizza,"ready meals, sandwiches, soups and misc."
+shrimp pizza,"ready meals, sandwiches, soups and misc."
+sicilian pizza,"ready meals, sandwiches, soups and misc."
+spinach feta pizza,"ready meals, sandwiches, soups and misc."
+spinach pizza,"ready meals, sandwiches, soups and misc."
+tarte flambée,"ready meals, sandwiches, soups and misc."
+thin crust pizza,"ready meals, sandwiches, soups and misc."
+tuna pizza,"ready meals, sandwiches, soups and misc."
+vegetable pizza,"ready meals, sandwiches, soups and misc."
+vegetarian pizza,"ready meals, sandwiches, soups and misc."
+veggie pizza,"ready meals, sandwiches, soups and misc."
+white pizza,"ready meals, sandwiches, soups and misc."
+asian pear,fresh produce (fruit)
+breadfruit,fresh produce (fruit)
+cantaloupe melon,fresh produce (fruit)
+casaba melon,fresh produce (fruit)
+cherimoya,fresh produce (fruit)
+dragon fruit,fresh produce (fruit)
+durian,fresh produce (fruit)
+feijoa,fresh produce (fruit)
+galia melon,fresh produce (fruit)
+grapefruit,fresh produce (fruit)
+honeydew,fresh produce (fruit)
+kumquat,fresh produce (fruit)
+lychee,fresh produce (fruit)
+mangosteen,fresh produce (fruit)
+maraschino cherries,fresh produce (fruit)
+muskmelon,fresh produce (fruit)
+pink grapefruit,fresh produce (fruit)
+plantain,fresh produce (fruit)
+prickly pear,fresh produce (fruit)
+sapodilla,fresh produce (fruit)
+soursop fruit,fresh produce (fruit)
+star fruit,fresh produce (fruit)
+arby’s grand turkey club,"ready meals, sandwiches, soups and misc."
+arby’s reuben,"ready meals, sandwiches, soups and misc."
+arby’s roast beef classic,"ready meals, sandwiches, soups and misc."
+bbq rib,"meat, poultry and seafood"
+bean burrito,"ready meals, sandwiches, soups and misc."
+bratwurst,"meat, poultry and seafood"
+angry,"ready meals, sandwiches, soups and misc."
+double,"ready meals, sandwiches, soups and misc."
+double  with cheese,"ready meals, sandwiches, soups and misc."
+original chicken sandwich,"ready meals, sandwiches, soups and misc."
+premium alaskan fish sandwich,"ready meals, sandwiches, soups and misc."
+triple,"ready meals, sandwiches, soups and misc."
+with cheese,"ready meals, sandwiches, soups and misc."
+cheeseburger,"ready meals, sandwiches, soups and misc."
+chicken breast,"meat, poultry and seafood"
+chicken fajita,"ready meals, sandwiches, soups and misc."
+chicken mcnuggets,"ready meals, sandwiches, soups and misc."
+chicken nuggets,"meat, poultry and seafood"
+chicken pizziola,"ready meals, sandwiches, soups and misc."
+chicken teriyaki sandwich,"ready meals, sandwiches, soups and misc."
+chicken wings,"meat, poultry and seafood"
+chop suey,"ready meals, sandwiches, soups and misc."
+curly fries,"ready meals, sandwiches, soups and misc."
+double cheeseburger,"ready meals, sandwiches, soups and misc."
+egg roll,"ready meals, sandwiches, soups and misc."
+filet-o-fish,"ready meals, sandwiches, soups and misc."
+fish sandwich,"ready meals, sandwiches, soups and misc."
+grilled chicken salad,"ready meals, sandwiches, soups and misc."
+ham sandwich,"ready meals, sandwiches, soups and misc."
+hamburger,"ready meals, sandwiches, soups and misc."
+hot dog,"ready meals, sandwiches, soups and misc."
+italian bmt,"ready meals, sandwiches, soups and misc."
+lasagna,"ready meals, sandwiches, soups and misc."
+mcdonald’s big mac,"ready meals, sandwiches, soups and misc."
+mcdonald’s cheeseburger,"ready meals, sandwiches, soups and misc."
+mcdonald’s chicken nuggets,"ready meals, sandwiches, soups and misc."
+mcdonald’s double cheeseburger,"ready meals, sandwiches, soups and misc."
+mcdonald’s filet-o-fish,"ready meals, sandwiches, soups and misc."
+mcdonald’s mcchicken,"ready meals, sandwiches, soups and misc."
+mcdonald’s mcdouble,"ready meals, sandwiches, soups and misc."
+kefir,"dairy, eggs and cheese products"
+mcdonald’s mcrib,"ready meals, sandwiches, soups and misc."
+mcdonald’s mighty wings,"ready meals, sandwiches, soups and misc."
+meatball sandwich,"ready meals, sandwiches, soups and misc."
+nachos with cheese,"ready meals, sandwiches, soups and misc."
+onion rings,"ready meals, sandwiches, soups and misc."
+poutine,"ready meals, sandwiches, soups and misc."
+smoked salmon,"meat, poultry and seafood"
+spicy italian,"ready meals, sandwiches, soups and misc."
+tuna,"meat, poultry and seafood"
+veggie burger,"ready meals, sandwiches, soups and misc."
+tropical fruit,fresh produce (fruit)
+whole milk,"dairy, eggs and cheese products"
+semi skimmed milk,"dairy, eggs and cheese products"
+skimmed milk,"dairy, eggs and cheese products"
+pip fruit,fresh produce (fruit)
+other vegetables,fresh produce (vegetables and herbs)
+rolls/buns,"breads, grains, pasta, rice and pastries"
+potted plants,household supplies and non-food items
+citrus fruit,fresh produce (fruit)
+beef,"meat, poultry and seafood"
+frankfurter,"meat, poultry and seafood"
+butter,"dairy, eggs and cheese products"
+fruit/vegetable juice,beverages
+chocolate,sweet and savoury snacks and treats
+butter milk,"dairy, eggs and cheese products"
+bottled water,beverages
+sausage,"meat, poultry and seafood"
+brown bread,"breads, grains, pasta, rice and pastries"
+hamburger meat,"meat, poultry and seafood"
+minced meat,"meat, poultry and seafood"
+root vegetables,fresh produce (vegetables and herbs)
+pastry,"breads, grains, pasta, rice and pastries"
+ham,"meat, poultry and seafood"
+curd cheese,"dairy, eggs and cheese products"
+red/blush wine,beverages
+frozen potato products,frozen products
+flour,"breads, grains, pasta, rice and pastries"
+sugar,"pantry- dry, canned and jarred goods"
+frozen meals,frozen products
+herbs,fresh produce (vegetables and herbs)
+soda,beverages
+detergent,household supplies and non-food items
+processed cheese,"dairy, eggs and cheese products"
+fish,"meat, poultry and seafood"
+sparkling wine,beverages
+newspapers,household supplies and non-food items
+curd,"dairy, eggs and cheese products"
+popcorn,sweet and savoury snacks and treats
+beverages,beverages
+bottled beer,beverages
+dessert,sweet and savoury snacks and treats
+dog food,household supplies and non-food items
+pet food,household supplies and non-food items
+cat food,household supplies and non-food items
+specialty chocolate,sweet and savoury snacks and treats
+condensed milk,"dairy, eggs and cheese products"
+cleaner,household supplies and non-food items
+white wine,beverages
+ice cream,frozen products
+hard cheese,"dairy, eggs and cheese products"
+liquor,beverages
+pickled vegetables,"pantry- dry, canned and jarred goods"
+candy,sweet and savoury snacks and treats
+cookies,sweet and savoury snacks and treats
+sweets,sweet and savoury snacks and treats
+pringles,sweet and savoury snacks and treats
+hair spray,household supplies and non-food items
+photo/film,household supplies and non-food items
+domestic eggs,"dairy, eggs and cheese products"
+margarine,"dairy, eggs and cheese products"
+shopping bags,household supplies and non-food items
+salt,"pantry- dry, canned and jarred goods"
+oil,"oils, sauces, condiments and spices"
+whipped/sour cream,"dairy, eggs and cheese products"
+frozen vegetables,frozen products
+sliced cheese,"dairy, eggs and cheese products"
+dish cleaner,household supplies and non-food items
+baking powder,"pantry- dry, canned and jarred goods"
+specialty cheese,"dairy, eggs and cheese products"
+salty snack,sweet and savoury snacks and treats
+instant food products,"ready meals, sandwiches, soups and misc."
+pet care,household supplies and non-food items
+white bread,"breads, grains, pasta, rice and pastries"
+female sanitary products,household supplies and non-food items
+cling film/bags,household supplies and non-food items
+soap,household supplies and non-food items
+house keeping products,household supplies and non-food items
+spread cheese,"dairy, eggs and cheese products"
+decalcifier,household supplies and non-food items
+tinfoil,household supplies and non-food items
+washing up liquid,household supplies and non-food items
+frozen dessert,frozen products
+vinegar,"oils, sauces, condiments and spices"
+hp sauce,"oils, sauces, condiments and spices"
+bbq sauce,"oils, sauces, condiments and spices"
+nuts,sweet and savoury snacks and treats
+frozen fish,frozen products
+hygiene articles,household supplies and non-food items
+shower gel,household supplies and non-food items
+body wash,household supplies and non-food items
+body lotion,household supplies and non-food items
+shampoo,household supplies and non-food items
+conditioner,household supplies and non-food items
+deodorant,household supplies and non-food items
+artif. sweetener,"pantry- dry, canned and jarred goods"
+light bulbs,household supplies and non-food items
+vegetables,"pantry- dry, canned and jarred goods"
+chewing gum,sweet and savoury snacks and treats
+cookware,household supplies and non-food items
+bread,"breads, grains, pasta, rice and pastries"
+bathroom cleaner,household supplies and non-food items
+prosecco,beverages
+fruit,"pantry- dry, canned and jarred goods"
+frozen fruits,frozen products
+brandy,beverages
+baby cosmetics,household supplies and non-food items
+spices,"oils, sauces, condiments and spices"
+napkins,household supplies and non-food items
+waffles,"breads, grains, pasta, rice and pastries"
+sauces,"oils, sauces, condiments and spices"
+chocolate marshmallow,sweet and savoury snacks and treats
+long life bakery product,"breads, grains, pasta, rice and pastries"
+bags,household supplies and non-food items
+sweet spreads,"pantry- dry, canned and jarred goods"
+soups,"ready meals, sandwiches, soups and misc."
+mustard,"oils, sauces, condiments and spices"
+instant coffee,beverages
+snack products,sweet and savoury snacks and treats
+organic sausage,"meat, poultry and seafood"
+soft cheese,"dairy, eggs and cheese products"
+mayonnaise,"oils, sauces, condiments and spices"
+dental care,household supplies and non-food items
+kitchen towels,household supplies and non-food items
+flower soil/fertilizer,household supplies and non-food items
+cereals,"breads, grains, pasta, rice and pastries"
+cherrios,"breads, grains, pasta, rice and pastries"
+cocoa pops,"breads, grains, pasta, rice and pastries"
+crunchy nuts,"breads, grains, pasta, rice and pastries"
+weetabix,"breads, grains, pasta, rice and pastries"
+meat spreads,"pantry- dry, canned and jarred goods"
+dishes,household supplies and non-food items
+male cosmetics,household supplies and non-food items
+candles,household supplies and non-food items
+whisky,beverages
+liqueur,beverages
+abrasive cleaner,household supplies and non-food items
+syrup,"oils, sauces, condiments and spices"
+ketchup,"oils, sauces, condiments and spices"
+skin care,household supplies and non-food items
+nut snack,sweet and savoury snacks and treats
+cocoa drinks,beverages
+softener,household supplies and non-food items
+cake bar,sweet and savoury snacks and treats
+jam,"pantry- dry, canned and jarred goods"
+kitchen utensil,household supplies and non-food items
+flower (seeds),household supplies and non-food items

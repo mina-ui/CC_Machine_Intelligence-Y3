@@ -1,0 +1,780 @@
+Food,Categories
+asparagus,produce
+avocados,produce
+bananas,produce
+bagels,breads & grains
+berries,produce
+brocolli,produce
+brown rice,breads & grains
+cauliflower,produce
+american cheese,dairy & eggs
+coffee,beverages
+corn,produce
+dark chocolate,snacks & sweets
+grapes,produce
+milk,dairy & eggs
+cashew nuts,snacks & sweets
+onions,produce
+orange,produce
+pasta  with tomato sauce,pantry & dry goods
+pears,produce
+peas,produce
+protein powder,pantry & dry goods
+pumpkin,produce
+tuna salad,meat & seafood
+tuna fish,meat & seafood
+pepperoni pizza,ready & instant meals
+cheese pizza,ready & instant meals
+french fries,ready & instant meals
+chicken burger,ready & instant meals
+cheese burger,ready & instant meals
+chicken,meat & seafood
+sugar doughnuts,ready & instant meals
+chocolate doughnuts,ready & instant meals
+pop corn,snacks & sweets
+dosa,ready & instant meals
+idli,ready & instant meals
+poha,breads & grains
+chappati,breads & grains
+tomato,produce
+yogurt,dairy & eggs
+brownie,snacks & sweets
+noodles,breads & grains
+uttapam,ready & instant meals
+bhaji pav,ready & instant meals
+dal makhani,ready & instant meals
+almonds,snacks & sweets
+mushrooms,produce
+eggs,dairy & eggs
+sweet potatoes,produce
+potatoes,produce
+white rice,breads & grains
+orange juice,beverages
+greek yogurt plain,dairy & eggs
+oat bran,breads & grains
+green tea,beverages
+chia seeds,breads & grains
+cottage cheese with vegetables,dairy & eggs
+salmon,meat & seafood
+cereals-corn flakes,breads & grains
+beans,pantry & dry goods
+lentils,pantry & dry goods
+tea,beverages
+apples,produce
+strawberries,produce
+quninoa,breads & grains
+goat meat,meat & seafood
+rabbit meat,meat & seafood
+chicken strips,meat & seafood
+steak,meat & seafood
+shrimp,meat & seafood
+spaghetti and meatballs,ready & instant meals
+macroni n cheese,ready & instant meals
+pork,meat & seafood
+bacon,meat & seafood
+turkey,meat & seafood
+oyster,meat & seafood
+banana chips,snacks & sweets
+honey,pantry & dry goods
+chocolate icecream,frozen products
+vanilla ice cream,frozen products
+strawberry icecream,frozen products
+marshmallows,snacks & sweets
+chocolate milk,beverages
+rice pudding,snacks & sweets
+nectarine,produce
+kiwifruit gold,produce
+prickly pear raw,produce
+pineapple,produce
+muscadine grapes,produce
+tangerine,produce
+prunes,produce
+lemon,produce
+banana,produce
+pomelo,produce
+raspberries,produce
+apricot,produce
+strawberry guava,produce
+kiwifruit green,produce
+figs,produce
+clementine,produce
+bartlett pear,produce
+red white currants,produce
+blueberries,produce
+mulberries,produce
+java plum,produce
+blue cheese,dairy & eggs
+eggnog,beverages
+beer light,beverages
+beer budweiser,beverages
+weizenbier erdinger,beverages
+beer light budweiser,beverages
+beer,beverages
+root beer,beverages
+whiskey sour mix,beverages
+whiskey sour,beverages
+tequila sunrise,beverages
+daiquiri,beverages
+pina colada,beverages
+whiskey,beverages
+rum,beverages
+cocktails,beverages
+coffee liqueur,beverages
+gin,beverages
+dessert wine sweet,beverages
+chenin blanc white wine,beverages
+gamay red wine,beverages
+late harvest white wine,beverages
+gewurztraminer white wine,beverages
+burgundy red wine,beverages
+zinfandel red wine,beverages
+red salmon sockeye filets smoked,meat & seafood
+cream cheese,dairy & eggs
+neufchatel cheese,dairy & eggs
+ricotta cheese,dairy & eggs
+scallops,meat & seafood
+squid fried,meat & seafood
+oyster raw,meat & seafood
+abalone,meat & seafood
+queen crab raw,meat & seafood
+whelk,meat & seafood
+eastern oyster,meat & seafood
+tuna  in oil,pantry & dry goods
+wild pink salmon oceans,meat & seafood
+alaska king crab raw,meat & seafood
+scallops fried,meat & seafood
+prawns,meat & seafood
+clams,meat & seafood
+alaska king crab,meat & seafood
+sardines in tomato sauce,pantry & dry goods
+tapioca pudding,dairy & eggs
+chocolate pudding,dairy & eggs
+lemon pudding,dairy & eggs
+vanilla pudding,dairy & eggs
+cottage cheese,dairy & eggs
+vanilla yogurt,dairy & eggs
+chocolate yogurt,dairy & eggs
+yogurt parfait,dairy & eggs
+chocolate frozen yogurt,frozen products
+frozen yogurt,dairy & eggs
+yogurt low fat,dairy & eggs
+vanilla yoghurt oikos,dairy & eggs
+fruit yogurt,dairy & eggs
+oyster mushroom,produce
+sunflower seed butter,"oils, condiments & sauces"
+hazelnut oil,"oils, condiments & sauces"
+lard,"oils, condiments & sauces"
+margarine spread,dairy & eggs
+lard vegetable oil,"oils, condiments & sauces"
+shortening,"oils, condiments & sauces"
+vegetable oil spread,"oils, condiments & sauces"
+cottonseed oil,"oils, condiments & sauces"
+vegetable oil spread fat free,"oils, condiments & sauces"
+margarine with salt,dairy & eggs
+grape leaves,pantry & dry goods
+sauerkraut,pantry & dry goods
+beets,pantry & dry goods
+tomatoes,pantry & dry goods
+tomato paste,pantry & dry goods
+artichoke,produce
+arugula,produce
+aubergine,produce
+beetroot,produce
+bell pepper,produce
+black olives,produce
+broccoli,produce
+brussels sprouts,produce
+cabbage,produce
+capsicum,produce
+peppers,produce
+carrot,produce
+celery,produce
+chard,produce
+cherry tomato,produce
+chicory,produce
+chinese cabbage,produce
+chives,produce
+mint,produce
+basil,produce
+oregano,produce
+thyme,produce
+rosemary,produce
+sage,produce
+collard greens,produce
+courgette,produce
+spinach,produce
+cucumber,produce
+eggplant,produce
+fennel,produce
+garlic,produce
+gherkin,produce
+gourd,produce
+green beans,produce
+green olives,produce
+green onion,produce
+horseradish,produce
+kale,produce
+kohlrabi,produce
+leek,produce
+lettuce,produce
+mustard greens,produce
+nori,produce
+okra,produce
+olives,produce
+onion,produce
+parsnips,produce
+pepper,produce
+potato,produce
+radishes,produce
+red cabbage,produce
+shallots,produce
+squash,produce
+sweet potato,produce
+turnip greens,produce
+turnips,produce
+wasabi,produce
+winter squash,produce
+zucchini,produce
+acai,produce
+apple,produce
+applesauce,pantry & dry goods
+avocado,produce
+blackberries,produce
+blood oranges,produce
+cantaloupe,produce
+cherries,produce
+cranberries,produce
+currants,produce
+custard apple,produce
+dates,produce
+fruit salad,produce
+guava,produce
+jackfruit,produce
+jujube,produce
+kiwi,produce
+lime,produce
+lychees,produce
+mandarin oranges,produce
+mango,produce
+papaya,produce
+passion fruit,produce
+peach,produce
+pear,produce
+persimmon,produce
+physalis,produce
+plantains,produce
+plum,produce
+pomegranate,produce
+quince,produce
+raisins,produce
+rambutan,produce
+rhubarb,produce
+starfruit,produce
+tamarind,produce
+watermelon,produce
+baby back ribs,meat & seafood
+baked beans,pantry & dry goods
+bbq ribs,meat & seafood
+beef stew,ready & instant meals
+biryani,ready & instant meals
+black pudding,meat & seafood
+black rice,breads & grains
+blt,ready & instant meals
+burrito,ready & instant meals
+butter chicken,ready & instant meals
+california roll,ready & instant meals
+chicken caesar salad,ready & instant meals
+chicken fried steak,ready & instant meals
+chicken marsala,ready & instant meals
+chicken parmesan,ready & instant meals
+chicken pot pie,ready & instant meals
+chicken tikka masala,ready & instant meals
+chili con carne,ready & instant meals
+chimichanga,ready & instant meals
+cobb salad,ready & instant meals
+corn dog,ready & instant meals
+corned beef hash,ready & instant meals
+cottage pie,ready & instant meals
+dal,ready & instant meals
+deviled eggs,dairy & eggs
+dim sum,ready & instant meals
+enchiladas,ready & instant meals
+fajita,ready & instant meals
+fish and chips,ready & instant meals
+fried rice,ready & instant meals
+grilled cheese sandwich,ready & instant meals
+ham and cheese sandwich,ready & instant meals
+jambalaya,ready & instant meals
+kebab meat,meat & seafood
+lasagne,ready & instant meals
+mac and cheese,ready & instant meals
+macaroni and cheese,ready & instant meals
+mashed potatoes,ready & instant meals
+meat,meat & seafood
+meatloaf,meat & seafood
+naan,breads & grains
+orange chicken,ready & instant meals
+pad thai,ready & instant meals
+paella,ready & instant meals
+paratha,breads & grains
+pea soup,ready & instant meals
+peanut butter sandwich,ready & instant meals
+duck,meat & seafood
+philly cheese steak,ready & instant meals
+pizza,ready & instant meals
+pork chop,meat & seafood
+potato salad,ready & instant meals
+pulled pork sandwich,ready & instant meals
+ramen noodles,breads & grains
+ravioli,breads & grains
+reuben sandwich,ready & instant meals
+roast beef,meat & seafood
+roast dinner,ready & instant meals
+samosa,ready & instant meals
+sausage roll,ready & instant meals
+sausage rolls,ready & instant meals
+shepherds pie,ready & instant meals
+shrimp cocktail,meat & seafood
+sloppy joe,meat & seafood
+sloppy joes,meat & seafood
+spaghetti bolognese,ready & instant meals
+spring roll,ready & instant meals
+tandoori chicken,meat & seafood
+yorkshire pudding,ready & instant meals
+barley,breads & grains
+barley groats,breads & grains
+buckwheat,breads & grains
+buckwheat groats,breads & grains
+corn waffles,breads & grains
+cornmeal,breads & grains
+cornstarch,breads & grains
+couscous,breads & grains
+cracker,snacks & sweets
+durum wheat semolina,breads & grains
+flaxseed,breads & grains
+freekeh,breads & grains
+grissini,breads & grains
+kamut,breads & grains
+millet,breads & grains
+millet flour,breads & grains
+millet gruel,breads & grains
+pearl barley,breads & grains
+polenta,breads & grains
+prawn crackers,snacks & sweets
+pretzel sticks,snacks & sweets
+quinoa,breads & grains
+rusk,breads & grains
+rye bran,breads & grains
+sago,breads & grains
+savoury biscuits,snacks & sweets
+shortbread,snacks & sweets
+spelt,breads & grains
+spelt bran,breads & grains
+spelt semolina,breads & grains
+sunflower seeds,snacks & sweets
+crisps,snacks & sweets
+chips,snacks & sweets
+tortilla chips,snacks & sweets
+wheat bran,breads & grains
+wheat germ,breads & grains
+wheat gluten,breads & grains
+wheat semolina,breads & grains
+wheat starch,breads & grains
+whole grain wheat,breads & grains
+wholegrain oat,breads & grains
+almond oil,"oils, condiments & sauces"
+apricot kernel oil,"oils, condiments & sauces"
+argan oil,"oils, condiments & sauces"
+avocado oil,"oils, condiments & sauces"
+canola oil,"oils, condiments & sauces"
+coconut oil,"oils, condiments & sauces"
+corn oil,"oils, condiments & sauces"
+flaxseed oil,"oils, condiments & sauces"
+grape seed oil,"oils, condiments & sauces"
+sunflower oil,"oils, condiments & sauces"
+vegetable oil,"oils, condiments & sauces"
+tumeric,"oils, condiments & sauces"
+cumin,"oils, condiments & sauces"
+paprika,"oils, condiments & sauces"
+peppercorns,"oils, condiments & sauces"
+cinnamon,"oils, condiments & sauces"
+allspice,"oils, condiments & sauces"
+nutmeg,"oils, condiments & sauces"
+star anise,"oils, condiments & sauces"
+cardamon,"oils, condiments & sauces"
+smoothie,beverages
+milkshake,beverages
+alphabet soup,ready & instant meals
+bean stew,ready & instant meals
+beef bouillon,pantry & dry goods
+beef noodle soup,ready & instant meals
+beef soup,ready & instant meals
+bouillon,pantry & dry goods
+broccoli cheese soup,ready & instant meals
+broccoli soup,ready & instant meals
+cabbage soup,ready & instant meals
+carrot ginger soup,ready & instant meals
+carrot soup,ready & instant meals
+chicken bouillon,pantry & dry goods
+chicken broth,ready & instant meals
+chicken gumbo soup,ready & instant meals
+chicken noodle soup,ready & instant meals
+chicken stock,pantry & dry goods
+chicken vegetable soup,ready & instant meals
+chicken with rice soup,ready & instant meals
+cream of asparagus soup,ready & instant meals
+cream of broccoli soup,ready & instant meals
+cream of celery soup,ready & instant meals
+cream of chicken soup,ready & instant meals
+cream of mushroom soup,ready & instant meals
+cream of onion soup,ready & instant meals
+cream of potato soup,ready & instant meals
+creamy chicken noodle soup,ready & instant meals
+french onion soup,ready & instant meals
+golden mushroom soup,ready & instant meals
+goulash,ready & instant meals
+lentil soup,ready & instant meals
+lobster bisque soup,ready & instant meals
+meatball soup,ready & instant meals
+minestrone,ready & instant meals
+mushroom soup,ready & instant meals
+noodle soup,ready & instant meals
+onion soup,ready & instant meals
+oxtail soup,ready & instant meals
+potato soup,ready & instant meals
+pumpkin soup,ready & instant meals
+scotch broth,ready & instant meals
+thai soup,ready & instant meals
+tomato rice soup,ready & instant meals
+tomato soup,ready & instant meals
+vegetable beef soup,ready & instant meals
+vegetable broth,ready & instant meals
+vegetable soup,ready & instant meals
+vegetable stock,pantry & dry goods
+butter pecan ice cream,frozen products
+chocolate chip ice cream,frozen products
+chocolate ice cream,frozen products
+coffee ice cream,frozen products
+cold stone creamery,frozen products
+cookie dough ice cream,frozen products
+dippin dots,frozen products
+french vanilla ice cream,frozen products
+hot fudge sundae,frozen products
+ice cream sandwich,frozen products
+ice cream sundae,frozen products
+ice lolly,frozen products
+magnum almond,frozen products
+popsicle,frozen products
+popsicles,frozen products
+magnum gold,frozen products
+magnum white,frozen products
+mint chocolate chip ice cream,frozen products
+rocky road ice cream,frozen products
+snickers ice cream,frozen products
+soft serve,frozen products
+solero,frozen products
+cream,dairy & eggs
+double cream,dairy & eggs
+single cream,dairy & eggs
+whipping cream,dairy & eggs
+brandy butter,dairy & eggs
+strawberry ice cream,frozen products
+strawberry sundae,frozen products
+sundae,frozen products
+vanilla cone,frozen products
+cannelloni,breads & grains
+capellini,breads & grains
+cappelletti,breads & grains
+cellophane noodles,breads & grains
+cheese tortellini,breads & grains
+dampfnudel,breads & grains
+dumpling dough,breads & grains
+egg noodles,breads & grains
+farfalle,breads & grains
+fettuccine,breads & grains
+fusilli,breads & grains
+glass noodles,breads & grains
+lasagne sheets,breads & grains
+linguine,breads & grains
+low carb pasta,breads & grains
+macaroni,breads & grains
+manicotti,breads & grains
+mostaccioli,breads & grains
+orecchiette,breads & grains
+orzo,breads & grains
+penne,breads & grains
+penne rigate,breads & grains
+pierogi,breads & grains
+rigatoni,breads & grains
+rotini,breads & grains
+shells,breads & grains
+shirataki noodles,breads & grains
+soy noodles,breads & grains
+spaetzle,breads & grains
+spaghetti,breads & grains
+spinach tortellini,breads & grains
+spirelli,breads & grains
+tagliatelle,breads & grains
+tortellini,breads & grains
+vermicelli,breads & grains
+pasta,breads & grains
+whole grain spaghetti,breads & grains
+ziti,breads & grains
+bbq chicken pizza,ready & instant meals
+bbq pizza,ready & instant meals
+beef pizza,ready & instant meals
+bianca pizza,ready & instant meals
+buffalo chicken pizza,ready & instant meals
+calabrese pizza,ready & instant meals
+calzone,ready & instant meals
+capricciosa pizza,ready & instant meals
+chicken pizza,ready & instant meals
+deep dish pizza,ready & instant meals
+dominos philly cheese steak pizza,ready & instant meals
+four cheese pizza,ready & instant meals
+goat cheese pizza,ready & instant meals
+grilled pizza,ready & instant meals
+hawaiian pizza,ready & instant meals
+margherita pizza,ready & instant meals
+mozzarella pizza,ready & instant meals
+mushroom pizza,ready & instant meals
+napoli pizza,ready & instant meals
+new york style pizza,ready & instant meals
+stuffed crust pizza,ready & instant meals
+supreme pizza,ready & instant meals
+pizza rolls,ready & instant meals
+quattro formaggi pizza,ready & instant meals
+red pepper pizza,ready & instant meals
+salami pizza,ready & instant meals
+sausage pizza,ready & instant meals
+seafood pizza,ready & instant meals
+shrimp pizza,ready & instant meals
+sicilian pizza,ready & instant meals
+spinach feta pizza,ready & instant meals
+spinach pizza,ready & instant meals
+tarte flambée,ready & instant meals
+thin crust pizza,ready & instant meals
+tuna pizza,ready & instant meals
+vegetable pizza,ready & instant meals
+vegetarian pizza,ready & instant meals
+veggie pizza,ready & instant meals
+white pizza,ready & instant meals
+asian pear,produce
+breadfruit,produce
+cantaloupe melon,produce
+casaba melon,produce
+cherimoya,produce
+dragon fruit,produce
+durian,produce
+feijoa,produce
+galia melon,produce
+grapefruit,produce
+honeydew,produce
+kumquat,produce
+lychee,produce
+mangosteen,produce
+maraschino cherries,produce
+muskmelon,produce
+pink grapefruit,produce
+plantain,produce
+prickly pear,produce
+sapodilla,produce
+soursop fruit,produce
+star fruit,produce
+arby’s grand turkey club,ready & instant meals
+arby’s reuben,ready & instant meals
+arby’s roast beef classic,ready & instant meals
+bbq rib,meat & seafood
+bean burrito,ready & instant meals
+bratwurst,meat & seafood
+angry,ready & instant meals
+double,ready & instant meals
+double  with cheese,ready & instant meals
+original chicken sandwich,ready & instant meals
+premium alaskan fish sandwich,ready & instant meals
+triple,ready & instant meals
+with cheese,ready & instant meals
+cheeseburger,ready & instant meals
+chicken breast,meat & seafood
+chicken fajita,ready & instant meals
+chicken mcnuggets,ready & instant meals
+chicken nuggets,meat & seafood
+chicken pizziola,ready & instant meals
+chicken teriyaki sandwich,ready & instant meals
+chicken wings,meat & seafood
+chop suey,ready & instant meals
+curly fries,ready & instant meals
+double cheeseburger,ready & instant meals
+egg roll,ready & instant meals
+filet-o-fish,ready & instant meals
+fish sandwich,ready & instant meals
+grilled chicken salad,ready & instant meals
+ham sandwich,ready & instant meals
+hamburger,ready & instant meals
+hot dog,ready & instant meals
+italian bmt,ready & instant meals
+lasagna,ready & instant meals
+mcdonald’s big mac,ready & instant meals
+mcdonald’s cheeseburger,ready & instant meals
+mcdonald’s chicken nuggets,ready & instant meals
+mcdonald’s double cheeseburger,ready & instant meals
+mcdonald’s filet-o-fish,ready & instant meals
+mcdonald’s mcchicken,ready & instant meals
+mcdonald’s mcdouble,ready & instant meals
+kefir,dairy & eggs
+mcdonald’s mcrib,ready & instant meals
+mcdonald’s mighty wings,ready & instant meals
+meatball sandwich,ready & instant meals
+nachos with cheese,ready & instant meals
+onion rings,ready & instant meals
+poutine,ready & instant meals
+smoked salmon,meat & seafood
+spicy italian,ready & instant meals
+tuna,meat & seafood
+veggie burger,ready & instant meals
+tropical fruit,produce
+whole milk,dairy & eggs
+semi skimmed milk,dairy & eggs
+skimmed milk,dairy & eggs
+pip fruit,produce
+other vegetables,produce
+rolls/buns,breads & grains
+potted plants,household supplies and non-food items
+citrus fruit,produce
+beef,meat & seafood
+frankfurter,meat & seafood
+butter,dairy & eggs
+fruit/vegetable juice,beverages
+chocolate,snacks & sweets
+butter milk,dairy & eggs
+bottled water,beverages
+sausage,meat & seafood
+brown bread,breads & grains
+hamburger meat,meat & seafood
+minced meat,meat & seafood
+root vegetables,produce
+pastry,breads & grains
+ham,meat & seafood
+curd cheese,dairy & eggs
+red/blush wine,beverages
+frozen potato products,frozen products
+flour,breads & grains
+sugar,pantry & dry goods
+frozen meals,frozen products
+herbs,produce
+soda,beverages
+detergent,household supplies and non-food items
+processed cheese,dairy & eggs
+fish,meat & seafood
+sparkling wine,beverages
+newspapers,household supplies and non-food items
+curd,dairy & eggs
+popcorn,snacks & sweets
+beverages,beverages
+bottled beer,beverages
+dessert,snacks & sweets
+dog food,household supplies and non-food items
+pet food,household supplies and non-food items
+cat food,household supplies and non-food items
+specialty chocolate,snacks & sweets
+condensed milk,dairy & eggs
+cleaner,household supplies and non-food items
+white wine,beverages
+ice cream,frozen products
+hard cheese,dairy & eggs
+liquor,beverages
+pickled vegetables,pantry & dry goods
+candy,snacks & sweets
+cookies,snacks & sweets
+sweets,snacks & sweets
+pringles,snacks & sweets
+hair spray,household supplies and non-food items
+photo/film,household supplies and non-food items
+domestic eggs,dairy & eggs
+margarine,dairy & eggs
+shopping bags,household supplies and non-food items
+salt,pantry & dry goods
+oil,"oils, condiments & sauces"
+whipped/sour cream,dairy & eggs
+frozen vegetables,frozen products
+sliced cheese,dairy & eggs
+dish cleaner,household supplies and non-food items
+baking powder,pantry & dry goods
+specialty cheese,dairy & eggs
+salty snack,snacks & sweets
+instant food products,ready & instant meals
+pet care,household supplies and non-food items
+white bread,breads & grains
+female sanitary products,household supplies and non-food items
+cling film/bags,household supplies and non-food items
+soap,household supplies and non-food items
+house keeping products,household supplies and non-food items
+spread cheese,dairy & eggs
+decalcifier,household supplies and non-food items
+tinfoil,household supplies and non-food items
+washing up liquid,household supplies and non-food items
+frozen dessert,frozen products
+vinegar,"oils, condiments & sauces"
+hp sauce,"oils, condiments & sauces"
+bbq sauce,"oils, condiments & sauces"
+nuts,snacks & sweets
+frozen fish,frozen products
+hygiene articles,household supplies and non-food items
+shower gel,household supplies and non-food items
+body wash,household supplies and non-food items
+body lotion,household supplies and non-food items
+shampoo,household supplies and non-food items
+conditioner,household supplies and non-food items
+deodorant,household supplies and non-food items
+artif. sweetener,pantry & dry goods
+light bulbs,household supplies and non-food items
+vegetables,pantry & dry goods
+chewing gum,snacks & sweets
+cookware,household supplies and non-food items
+bread,breads & grains
+bathroom cleaner,household supplies and non-food items
+prosecco,beverages
+fruit,pantry & dry goods
+frozen fruits,frozen products
+brandy,beverages
+baby cosmetics,household supplies and non-food items
+spices,"oils, condiments & sauces"
+napkins,household supplies and non-food items
+waffles,breads & grains
+sauces,"oils, condiments & sauces"
+chocolate marshmallow,snacks & sweets
+long life bakery product,breads & grains
+bags,household supplies and non-food items
+sweet spreads,pantry & dry goods
+soups,ready & instant meals
+mustard,"oils, condiments & sauces"
+instant coffee,beverages
+snack products,snacks & sweets
+organic sausage,meat & seafood
+soft cheese,dairy & eggs
+mayonnaise,"oils, condiments & sauces"
+dental care,household supplies and non-food items
+kitchen towels,household supplies and non-food items
+flower soil/fertilizer,household supplies and non-food items
+cereals,breads & grains
+cherrios,breads & grains
+cocoa pops,breads & grains
+crunchy nuts,breads & grains
+weetabix,breads & grains
+meat spreads,pantry & dry goods
+dishes,household supplies and non-food items
+male cosmetics,household supplies and non-food items
+candles,household supplies and non-food items
+whisky,beverages
+liqueur,beverages
+abrasive cleaner,household supplies and non-food items
+syrup,"oils, condiments & sauces"
+ketchup,"oils, condiments & sauces"
+skin care,household supplies and non-food items
+nut snack,snacks & sweets
+cocoa drinks,beverages
+softener,household supplies and non-food items
+cake bar,snacks & sweets
+jam,pantry & dry goods
+kitchen utensil,household supplies and non-food items
+flower (seeds),household supplies and non-food items
